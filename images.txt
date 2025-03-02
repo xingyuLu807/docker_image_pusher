@@ -1,1 +1,1 @@
-nginx
+portainer/portainer-ce:lts
